@@ -52,9 +52,9 @@ export const metadata: Metadata = {
     images: ["/logo_athena.svg"],
   },
   icons: {
-    icon: "/logo_athena.svg",
-    shortcut: "/logo_athena.svg",
-    apple: "/logo_athena.svg",
+    icon: "/logo-footer-athena.svg",
+    shortcut: "/logo-footer-athena.svg",
+    apple: "/logo-footer-athena.svg",
   },
   robots: {
     index: true,
