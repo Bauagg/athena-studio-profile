@@ -38,7 +38,7 @@ const Navbar = () => {
 
     return (
         <nav
-            className={`fixed top-0 left-0 right-0 z-50 w-full bg-white shadow-sm transition-all duration-300 ${
+            className={`fixed top-0 left-0 right-0 z-50 w-full bg-white transition-all duration-300 ${
                 visible ? "opacity-100 translate-y-0" : "opacity-0 -translate-y-full pointer-events-none"
             }`}
         >
