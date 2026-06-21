@@ -46,7 +46,7 @@ const Footer = () => {
                     </div>
 
                     {/* Kanan — menu + kontak berdekatan */}
-                    <div className="col-span-2 md:col-span-1 flex flex-row justify-between pr-10">
+                    <div className="col-span-2 md:col-span-1 flex flex-row justify-between md:pr-10">
 
                         {/* Kolom menu */}
                         <div className="flex flex-col gap-3">
